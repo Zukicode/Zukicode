@@ -1,21 +1,19 @@
 ![Header](https://github.com/Zukicode/Zukicode/blob/main/assets/header.png)
 
-## I'm a web developer, my goal is full-stack development. 
-## I am currently a Front-end developer
+## I'm a Front-end developer.
 
 ## Language and Tools
-![Html](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html&logoColor=dd4b25)
-![Css](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css&logoColor=254bdd)
-![Javascript](https://img.shields.io/badge/-JAVASCRIPT-ffffff?style=for-the-badge&logo=javascript&logoColor=efd81d)
-![React](https://img.shields.io/badge/-REACT-ffffff?style=for-the-badge&logo=react&logoColor=5ed3f3)
-![Redux](https://img.shields.io/badge/-REDUX-ffffff?style=for-the-badge&logo=redux&logoColor=68469d)
-![Sass](https://img.shields.io/badge/-SASS-ffffff?style=for-the-badge&logo=sass&logoColor=C76494)
-![VisualStudioCode](https://img.shields.io/badge/-VISUALSTUDIOCODE-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=1E87CD)
-![SublimeText](https://img.shields.io/badge/-SUBLIMETEXT-ffffff?style=for-the-badge&logo=sublimetext&logoColor=F79202)
-![Xampp](https://img.shields.io/badge/-XAMPP-ffffff?style=for-the-badge&logo=xampp&logoColor=F37623)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-Learning
-
-Follow me
-
+## Workspace Specs
+![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Amd](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Laptop](https://img.shields.io/badge/Windows-Lenovo_IdeaPad_3_GAMING-0078D6?style=for-the-badge&logo=windows&logoColor=white)
