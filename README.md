@@ -2,7 +2,8 @@
 
 ## I'm a web developer, my goal is full-stack development. I am currently a Front-end developer
 
-Language and Tools
+## Language and Tools
+![Javascript]https://img.shields.io/badge/-JAVASCRIPT-ffffff
 
 Learning
 
