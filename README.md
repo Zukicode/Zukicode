@@ -1,5 +1,5 @@
 [![Header]
-https://github.com/Zukicode/Zukicode/blob/main/assets/header.png]
+(https://github.com/Zukicode/Zukicode/blob/main/assets/header.png)]
 
 About me
 
