@@ -12,7 +12,7 @@
 
 ## Projects
 
-[![Husk](https://img.shields.io/badge/-Husk-gold?style=for-the-badge&logo=&logoColor=fff)](https://github.com/Zukicode/HUSK-MOVIE-APP) ### Web application for watching movies. You can store your films in LocalStorage
+[![Husk](https://img.shields.io/badge/-Husk-gold?style=for-the-badge&logo=&logoColor=fff)](https://github.com/Zukicode/HUSK-MOVIE-APP) ## Web application for watching movies. You can store your films in LocalStorage
 
 ## Workspace Specs
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
