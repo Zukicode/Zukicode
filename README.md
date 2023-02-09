@@ -14,8 +14,8 @@
 ## Projects
 
 ### Web application for watching movies. You can store your films in LocalStorage
-[![Husk](https://img.shields.io/badge/-Husk-gold?style=for-the-badge&logo=&logoColor=fff)](https://superlative-cactus-f6e7e4.netlify.app/)]
-[![Game Catalog](https://img.shields.io/badge/-Game Catalog-darkred?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/game-catalog-react-redux/)]
+[![Husk](https://img.shields.io/badge/-Husk-gold?style=for-the-badge&logo=&logoColor=fff)](https://superlative-cactus-f6e7e4.netlify.app/)
+[![GameCatalog](https://img.shields.io/badge/-GameCatalog-darkred?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/game-catalog-react-redux/)
 
 ## Workspace Specs
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
