@@ -14,7 +14,7 @@
 ## Projects
 
 ### Web application for watching movies. You can store your films in LocalStorage
-[![WikiCountry](https://img.shields.io/badge/-WIKICOUNTRY-080434?style=for-the-badge&logo=&logoColor=fff)](https://github.com/Zukicode/countries-app/)
+[![WikiCountry](https://img.shields.io/badge/-WIKICOUNTRY-080434?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/countries-app/)
 [![Husk](https://img.shields.io/badge/-Husk-gold?style=for-the-badge&logo=&logoColor=fff)](https://superlative-cactus-f6e7e4.netlify.app/)
 [![GameCatalog](https://img.shields.io/badge/-GameCatalog-darkred?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/game-catalog-react-redux/)
 
