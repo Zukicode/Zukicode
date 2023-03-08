@@ -15,7 +15,6 @@
 
 ### Web application for watching movies. You can store your films in LocalStorage
 [![WikiCountry](https://img.shields.io/badge/-WIKICOUNTRY-080434?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/countries-app/)
-[![GameCatalog](https://img.shields.io/badge/-GameCatalog-darkred?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/game-catalog-react-redux/)
 
 ## Workspace Specs
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
