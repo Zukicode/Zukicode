@@ -10,11 +10,11 @@
 ![Redux ToolKit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
 ## Projects
 
 ### Web application for watching movies. You can store your films in LocalStorage
 [![WikiCountry](https://img.shields.io/badge/-WIKICOUNTRY-080434?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/countries-app/)
+[![Advice](https://img.shields.io/badge/-WIKICOUNTRY-hsl(150, 100%, 66%)?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/advice-react-app/)
 
 ## Workspace Specs
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
