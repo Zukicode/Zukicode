@@ -15,7 +15,7 @@
 ### Web application for watching movies. You can store your films in LocalStorage
 [![WikiCountry](https://img.shields.io/badge/-WIKICOUNTRY-080434?style=for-the-badge&logo=&logoColor=fff)](https://zukicode.github.io/countries-app/)
 [![Advice](https://img.shields.io/badge/-Advice-52FFA8?style=for-the-badge&logo=&logoColor=ffffff)](https://zukicode.github.io/advice-react-app/)
-[![TODO](https://img.shields.io/badge/-Advice-731A74?style=for-the-badge&logo=&logoColor=ffffff)](https://zukicode.github.io/todo-app/)
+[![TODO](https://img.shields.io/badge/-TODO-731A74?style=for-the-badge&logo=&logoColor=ffffff)](https://zukicode.github.io/todo-app/)
 
 
 
