@@ -6,10 +6,9 @@
 
 ### 🔑 Skills
 
-<div style="text-align: center">
 
 <h3>FrontEnd</h3>
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
 ![Scss](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
@@ -32,7 +31,6 @@
 ![WINDOWS](https://img.shields.io/badge/WINDOWS-5272FF?style=for-the-badge&logo=windows&logoColor=white)
 ![MS OFFICE](https://camo.githubusercontent.com/6c4d7f2623f98491a516520ff41173a0c48263b5eb730cf5a4bb4d1d7b2b15d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d532532304f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465) 
 
-</div>
 
 
 
