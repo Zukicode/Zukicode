@@ -1,4 +1,4 @@
-![H![Header](https://github.com/Zukicode/Zukicode/blob/main/assets/header.png)
+![Header](https://github.com/Zukicode/Zukicode/blob/main/assets/header.png)
 
 > _I am a software engineering student with a passion for web programming._
 
