@@ -1,4 +1,4 @@
-![Header](https://github.com/Zukicode/Zukicode/blob/main/assets/header.png)
+![H![Header](https://github.com/Zukicode/Zukicode/blob/main/assets/header.png)
 
 > _I am a software engineering student with a passion for web programming._
 
@@ -14,7 +14,16 @@
 |![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)| **-** | **-** |  ![CANVA](https://img.shields.io/badge/CANVA-981EE4?style=for-the-badge&logo=CANVA&logoColor=white) |
 |![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)| **-**| **-** | ![WINDOWS](https://img.shields.io/badge/WINDOWS-5272FF?style=for-the-badge&logo=windows&logoColor=white) |
 | ![Redux ToolKit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)  | **-**| **-** |  ![Linux](https://img.shields.io/badge/Linux-FCB900?style=for-the-badge&logo=Linux&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)  | **-**| **-** | **-** |
 | ![TAILWIND](https://img.shields.io/badge/tailwind-07B0CE?style=for-the-badge&logo=tailwindcss&logoColor=white)  | **-**| **-** | **-** |
+
+
+
+
+
+
+
+
 
 
 
